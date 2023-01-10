@@ -19,7 +19,7 @@ public class TASK1
          arr[i]=1+rand.nextInt(10);
      }
      
-  System.out.println("Enter the Index of array");
+  System.out.println("Enter the Index of array for v2");
   int index = sc.nextInt();
   try 
   {
